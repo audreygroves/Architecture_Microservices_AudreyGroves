@@ -14,7 +14,7 @@ const mongoose = require("mongoose");
 mongoose.set("strictQuery", false);
 const mongoDB = "mongodb+srv://ahgroves99:Pinkgirl14@cluster0.s12gbdc.mongodb.net/local_library?retryWrites=true&w=majority"
 
-mainModule().catch((err) => console.log(err));
+main().catch((err) => console.log(err));
 async function main() {
   await mongoose.connect(mongoDB);
 }
