@@ -1,6 +1,6 @@
-# Dockerized React Todo List Application
+# Docker Todo List Application
 
-This is a Dockerized React Todo List application that allows you to manage your to-do items through a simple and intuitive user interface. The application is encapsulated in a Docker container, making it easy to deploy and run in various environments.
+This is a Todo List application that allows you to manage your to-do items through a simple and intuitive user interface. The application is encapsulated in a Docker container, making it easy to deploy and run in various environments.
 
 ## Prerequisites
 
